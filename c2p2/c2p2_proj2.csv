@@ -1,0 +1,21 @@
+student_id,gpa,test_score,preferred_subjects,previous_enrollments,age,gender,location,extracurricular_activities,career_goals,enrollment
+1,3.8,85,Mathematics,2,20,Male,"New York",Basketball,"Data Scientist",1
+2,3.2,78,Physics,1,22,Female,California,Chess,Engineer,0
+3,3.9,92,"Computer Science",3,19,Male,Texas,"Coding Club","Software Developer",1
+4,3.5,88,Chemistry,2,21,Female,Florida,Dance,Pharmacist,1
+5,2.8,75,History,1,23,Male,Nevada,Debate,Historian,0
+6,3.6,84,Biology,2,20,Female,Illinois,Swimming,Doctor,1
+7,3.4,79,Economics,1,22,Male,Ohio,Soccer,Economist,0
+8,3.7,90,Physics,3,21,Female,"New Jersey",Robotics,Physicist,1
+9,3.1,76,English,1,19,Male,Virginia,Theater,Writer,0
+10,3.8,89,Mathematics,2,20,Female,Michigan,Basketball,Statistician,1
+11,3.3,77,Geography,1,23,Male,Arizona,Hiking,Geographer,0
+12,3.9,93,"Computer Science",3,22,Female,Massachusetts,"Coding Club","Software Developer",1
+13,3.2,80,Chemistry,2,21,Male,Washington,Dance,Pharmacist,0
+14,3.5,85,Biology,1,19,Female,Oregon,Swimming,Doctor,1
+15,2.9,74,History,1,23,Male,Kentucky,Debate,Historian,0
+16,3.6,88,Economics,2,20,Female,Maryland,Soccer,Economist,1
+17,3.7,92,Physics,3,22,Male,Colorado,Robotics,Physicist,1
+18,3.1,78,English,1,21,Female,Tennessee,Theater,Writer,0
+19,3.4,83,Geography,2,19,Male,Indiana,Hiking,Geographer,0
+20,3.5,87,Mathematics,3,20,Female,Wisconsin,Basketball,Statistician,1
